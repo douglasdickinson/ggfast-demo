@@ -6,8 +6,7 @@ This is the first file of the repo.
 
 Files for the website, and (branch change): maybe for offline viewing too.
 
-1. index.html
-1. branch-changes.html
+Bad update is bound to cause merge conflicts.
 
 --
 Footer.
